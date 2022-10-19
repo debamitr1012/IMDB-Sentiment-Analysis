@@ -21,12 +21,12 @@ IMDB dataset has 50K movie reviews for natural language processing or Text analy
 
 <div align="center">
    
-[![GitHub issues](https://img.shields.io/github/issues/IMDB-Sentiment-Analysis?color=pink&logo=github)](https://github.com/acm-iem/Project-Template-Hacktoberfest22/issues)[![GitHub PRs](https://img.shields.io/github/issues-pr/IMDB-Sentiment-Analysis?style=social&logo=github)](https://github.com/debamitr1012/IMDB-Sentiment-Analysis/pulls)[![GitHub forks](https://img.shields.io/github/forks/dsc-iem/DermAssistApp-Hacktoberfest22?logo=git)](https://github.com/debamitr1012/IMDB-Sentiment-Analysis/network)
+[![GitHub issues](https://img.shields.io/github/issues/chaitak-gorai/Project-Template-Hacktoberfest22?color=pink&logo=github)](https://github.com/acm-iem/Project-Template-Hacktoberfest22/issues)        [![GitHub PRs](https://img.shields.io/github/issues-pr/chaitak-gorai/Project-Template-Hacktoberfest22?style=social&logo=github)](https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/pulls)                    [![GitHub forks](https://img.shields.io/github/forks/chaitak-gorai/Project-Template-Hacktoberfest22?logo=git)](https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/network)
    
-<a href="https://github.com/IMDB-Sentiment-Analysis/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/IMDB-Sentiment-Analysis?color=2b9348"></a>
-<!--
-  <a href="https://github.com/IMDB-Sentiment-Analysis/blob/master/LICENSE"><img src="https://img.shields.io/github/license/IMDB-Sentiment-Analysis?color=2b9348" alt="License Badge"/></a>
--->
+   <a href="https://github.com/chaitak-gorai/blogbook/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/chaitak-gorai/Project-Template-Hacktoberfest22?color=2b9348"></a>
+<a href="https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/blob/master/LICENSE"><img src="https://img.shields.io/github/license/chaitak-gorai/Project-Template-Hacktoberfest22?color=2b9348" alt="License Badge"/></a>
+</div>
+
 </div>
 
 ### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2022 challenge and earn a limited edition T-shirt.
