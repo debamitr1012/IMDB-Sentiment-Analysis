@@ -1,7 +1,7 @@
 # IMDB-Sentiment-Analysis
 
 <p align="center">
-  <img src="https://github.com/Ankit152/IMDB-sentiment-analysis/blob/master/imdb.png" width="755" height="380"/>
+  <img src="https://github.com/Ankit152/IMDB-sentiment-analysis/blob/master/imdb.png" width="655" height="380"/>
 </p>
 
 ## IMDB Dataset of 50K Movie Reviews
