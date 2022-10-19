@@ -13,7 +13,7 @@ IMDB dataset has 50K movie reviews for natural language processing or Text analy
 
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="https://raw.githubusercontent.com/dsc-iem/DermAssistApp-Hacktoberfest22/main/Hfest-Logo-2-Color-Manga.svg" width="30%">
+        <img src="https://github.com/debamitr1012/IMDB-Sentiment-Analysis/blob/main/Hfest-Logo-2-Color-Manga.svg" width="30%">
     </a>
 </p>
 
@@ -21,8 +21,8 @@ IMDB dataset has 50K movie reviews for natural language processing or Text analy
 
 <div align="center">
    
-   <a href="https://github.com/dsc-iem/DermAssistApp-Hacktoberfest22/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/dsc-iem/DermAssistApp-Hacktoberfest22?color=2b9348"></a>
-<a href="https://github.com/dsc-iem/DermAssistApp-Hacktoberfest22/blob/master/LICENSE"><img src="https://img.shields.io/github/license/dsc-iem/DermAssistApp-Hacktoberfest22?color=2b9348" alt="License Badge"/></a>
+   <a href="https://github.com/debamitr1012/IMDB-Sentiment-Analysis/contributors"><img alt="GitHub contributors" src=""></a>
+<a href=""><img src="" alt="License Badge"/></a>
 </div>
 
 ### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2022 challenge and earn a limited edition T-shirt.
@@ -37,3 +37,29 @@ IMDB dataset has 50K movie reviews for natural language processing or Text analy
 - To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone.
 - This year, the first 40,000 participants can earn a T-shirt.
 ---
+
+# Contribute
+   ### Do Read - [Code of Conduct](https://github.com/debamitr1012/IMDB-Sentiment-Analysis/blob/main/CODE_OF_CONDUCT.md)
+   ### Jump to - [CONTRIBUTE.md](https://github.com/debamitr1012/IMDB-Sentiment-Analysis/blob/main/CONTRIBUTOR.md) (updated)
+Why not start your open source journey by merging some codes here. It will be very great if you review the code and  find some bugs and issues.
+
+## Steps for a successful commit :zap:
+- Choose any of the **Ways to contribute** for contribution.
+- Create a PR and commit by creating a new branch (:warning: Avoid commiting to the main)
+- Be patience it might take time for the maintainers to review your PR.
+- Congratulations on a successful merge.
+- You can add your name to contributors list.
+
+
+ ### Ways to Contribute 
+  * Find a bug by running the project locally
+  * Solve the [issues](https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/issues) which are already set up
+  * Sugget some change or create your own isssue
+  *  Create documentation like site structure, how to write a blog,etc
+  *  Indent/Beautify/Modify codes.
+
+### List of Contributors
+   Jump to [CONTRIBUTOR.md](https://github.com/debamitr1012/IMDB-Sentiment-Analysis/blob/main/CONTRIBUTOR.md)
+ 
+<br>
+<p align = "center"><h3>Thank You! Keep Contributing :octocat:</h3></p>
