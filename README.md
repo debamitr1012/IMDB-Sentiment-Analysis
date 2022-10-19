@@ -21,8 +21,11 @@ IMDB dataset has 50K movie reviews for natural language processing or Text analy
 
 <div align="center">
    
-   <a href="https://github.com/debamitr1012/IMDB-Sentiment-Analysis/contributors"><img alt="GitHub contributors" src=""></a>
-<a href=""><img src="" alt="License Badge"/></a>
+[![GitHub issues](https://img.shields.io/github/issues/IMDB-Sentiment-Analysis?color=pink&logo=github)](https://github.com/acm-iem/Project-Template-Hacktoberfest22/issues)        
+[![GitHub PRs](https://img.shields.io/github/issues-pr/IMDB-Sentiment-Analysis?style=social&logo=github)](https://github.com/IMDB-Sentiment-Analysis/pulls)          [![GitHub forks](https://img.shields.io/github/forks/dsc-iem/DermAssistApp-Hacktoberfest22?logo=git)](https://github.com/IMDB-Sentiment-Analysis/network)
+   
+<a href="https://github.com/IMDB-Sentiment-Analysis/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/IMDB-Sentiment-Analysis?color=2b9348"></a>
+<a href="https://github.com/IMDB-Sentiment-Analysis/blob/master/LICENSE"><img src="https://img.shields.io/github/license/IMDB-Sentiment-Analysis?color=2b9348" alt="License Badge"/></a>
 </div>
 
 ### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2022 challenge and earn a limited edition T-shirt.
@@ -50,8 +53,7 @@ Why not start your open source journey by merging some codes here. It will be ve
 - Congratulations on a successful merge.
 - You can add your name to contributors list.
 
-
- ### Ways to Contribute 
+### Ways to Contribute 
   * Find a bug by running the project locally
   * Solve the [issues](https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/issues) which are already set up
   * Sugget some change or create your own isssue
@@ -60,6 +62,5 @@ Why not start your open source journey by merging some codes here. It will be ve
 
 ### List of Contributors
    Jump to [CONTRIBUTOR.md](https://github.com/debamitr1012/IMDB-Sentiment-Analysis/blob/main/CONTRIBUTOR.md)
- 
 <br>
 <p align = "center"><h3>Thank You! Keep Contributing :octocat:</h3></p>
