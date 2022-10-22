@@ -1,7 +1,7 @@
 # IMDB-Sentiment-Analysis
 
 <p align="center">
-  <img src="https://github.com/Ankit152/IMDB-sentiment-analysis/blob/master/imdb.png" width="355" height="180"/>
+  <img src="https://github.com/debamitr1012/IMDB-Sentiment-Analysis/blob/main/imdb.png" width="355" height="180"/>
 </p>
 
 ## IMDB Dataset of 50K Movie Reviews
@@ -14,7 +14,7 @@ IMDB dataset has 50K movie reviews for natural language processing or Text analy
 
 ## Libraries Used -
 
-<img src="https://img.shields.io/badge/numpy%20-%2314354C.svg?&style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas%20-%2314354C.svg?&style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/plotly%20-%2314354C.svg?&style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/pickle%20-%2314354C.svg?&style=for-the-badge&logo=pickle&logoColor=white"/> <img src="https://img.shields.io/badge/nltk%20-%2314354C.svg?&style=for-the-badge&logo=nltk&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow%20-%2314354C.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/flask%20-%2314354C.svg?&style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%2314354C.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/numpy%20-%2314354C.svg?&style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas%20-%2314354C.svg?&style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/matplotlib%20-%2314354C.svg?&style=for-the-badge&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/seaborn%20-%2314354C.svg?&style=for-the-badge&logo=seaborn&logoColor=white"/> <img src="https://img.shields.io/badge/nltk%20-%2314354C.svg?&style=for-the-badge&logo=nltk&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch%20-%2314354C.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/pickle%20-%2314354C.svg?&style=for-the-badge&logo=pickle&logoColor=white"/>
 
 
 ## Hacktober Fest Accepted 
