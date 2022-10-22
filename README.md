@@ -10,7 +10,7 @@ IMDB dataset has 50K movie reviews for natural language processing or Text analy
 
 ## Tech Stack Used -
 
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/jupyter%20-%2314354C.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/jupyter%20-%2314354C.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/anaconda%20-%2314354C.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/vscode%20-%2314354C.svg?&style=for-the-badge&logo=vscode&logoColor=white"/>
 
 ## Libraries Used -
 
